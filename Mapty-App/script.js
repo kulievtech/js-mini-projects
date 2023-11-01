@@ -133,3 +133,4 @@ class App {
 const app = new App();
 
 // create a new workout
+// fix a typo
